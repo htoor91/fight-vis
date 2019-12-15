@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fight-vis/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fight-vis/static/js/main.2a29ab75.chunk.js",
+    "main.js.map": "/fight-vis/static/js/main.2a29ab75.chunk.js.map",
+    "runtime-main.js": "/fight-vis/static/js/runtime-main.f485787c.js",
+    "runtime-main.js.map": "/fight-vis/static/js/runtime-main.f485787c.js.map",
+    "static/css/2.2f6d73b0.chunk.css": "/fight-vis/static/css/2.2f6d73b0.chunk.css",
+    "static/js/2.8fbc32ee.chunk.js": "/fight-vis/static/js/2.8fbc32ee.chunk.js",
+    "static/js/2.8fbc32ee.chunk.js.map": "/fight-vis/static/js/2.8fbc32ee.chunk.js.map",
+    "index.html": "/fight-vis/index.html",
+    "precache-manifest.f1d2a0d3e7d12522edfd8d33c4654f02.js": "/fight-vis/precache-manifest.f1d2a0d3e7d12522edfd8d33c4654f02.js",
+    "service-worker.js": "/fight-vis/service-worker.js",
+    "static/css/2.2f6d73b0.chunk.css.map": "/fight-vis/static/css/2.2f6d73b0.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/fight-vis/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8fbc32ee.chunk.js.LICENSE": "/fight-vis/static/js/2.8fbc32ee.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/fight-vis/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f485787c.js",
+    "static/css/2.2f6d73b0.chunk.css",
+    "static/js/2.8fbc32ee.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2a29ab75.chunk.js"
+  ]
+}
