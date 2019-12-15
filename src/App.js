@@ -1,5 +1,5 @@
 import React, { useState} from 'react';
-import { BrowserRouter as Router, Route, Link, useHistory, Redirect } from 'react-router-dom';
+import { HashRouter as Router, Route, Link, useHistory, Redirect } from 'react-router-dom';
 import { Form, Input, Button, Message } from 'semantic-ui-react';
 import 'semantic-ui-css/semantic.min.css'
 import { isAuthenticated } from './util';
